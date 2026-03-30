@@ -15,7 +15,7 @@ KinemaClawWorkspace is an open-source organization focused on developing high-qu
 
 | Skill | Description |
 |-------|-------------|
-| [alist-cli](https://github.com/KinemaClawWorkspace/alist-cli) | AList file management API with base_path auto-handling |
+| [alist-cli](https://github.com/KinemaClawWorkspace/alist-cli) | AList file management API with base_path auto-handling · [ClawHub](https://clawhub.ai/leeshunee/alist-cli) |
 | [searxng-search-cli](https://github.com/KinemaClawWorkspace/searxng-search-cli) | Self-hosted SearXNG search engine (Free, Auto-deploy, Multi-Channel) |
 | [kinema-concept-research](https://github.com/KinemaClawWorkspace/kinema-concept-research) | Multi-engine concept status research tool |
 | [kinema-skill-making-pipeline](https://github.com/KinemaClawWorkspace/kinema-skill-making-pipeline) | Skill development and publishing specification |
