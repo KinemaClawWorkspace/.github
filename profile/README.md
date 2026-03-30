@@ -20,9 +20,10 @@ KinemaClawWorkspace is an open-source organization focused on developing high-qu
 | [kinema-concept-research](https://github.com/KinemaClawWorkspace/kinema-concept-research) | Multi-engine concept status research tool |
 | [kinema-skill-making-pipeline](https://github.com/KinemaClawWorkspace/kinema-skill-making-pipeline) | Skill development and publishing specification |
 
-## Member
+## Members
 
-- **[KinemaClaw](https://github.com/LeeShunEE)** — Founder & maintainer
+- **[Kinema](https://github.com/LeeShunEE)** — Founder & maintainer
+- **[KinemaClaw](https://github.com/KinemaClaw)**
 
 ## Find Us
 
