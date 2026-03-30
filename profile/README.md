@@ -14,12 +14,12 @@ KinemaClawWorkspace is an open-source organization focused on developing high-qu
 
 ## Skills
 
-| Skill | Description | Version |
-|-------|-------------|---------|
-| [alist-cli](https://github.com/KinemaClawWorkspace/alist-cli) | AList file management API with base_path auto-handling | ![v1.1.1](https://img.shields.io/badge/v1.1.1-blue) |
-| [searxng-search-cli](https://github.com/KinemaClawWorkspace/searxng-search-cli) | Self-hosted SearXNG search engine (Free, Auto-deploy, Multi-Channel) | ![v1.1.0](https://img.shields.io/badge/v1.1.0-blue) |
-| [kinema-concept-research](https://github.com/KinemaClawWorkspace/kinema-concept-research) | Multi-engine concept status research tool | ![v1.0.1](https://img.shields.io/badge/v1.0.1-blue) |
-| [kinema-skill-making-pipeline](https://github.com/KinemaClawWorkspace/kinema-skill-making-pipeline) | Skill development and publishing specification | ![v1.0.4](https://img.shields.io/badge/v1.0.4-blue) |
+| Skill | Description |
+|-------|-------------|
+| [alist-cli](https://github.com/KinemaClawWorkspace/alist-cli) | AList file management API with base_path auto-handling |
+| [searxng-search-cli](https://github.com/KinemaClawWorkspace/searxng-search-cli) | Self-hosted SearXNG search engine (Free, Auto-deploy, Multi-Channel) |
+| [kinema-concept-research](https://github.com/KinemaClawWorkspace/kinema-concept-research) | Multi-engine concept status research tool |
+| [kinema-skill-making-pipeline](https://github.com/KinemaClawWorkspace/kinema-skill-making-pipeline) | Skill development and publishing specification |
 
 ## Member
 
