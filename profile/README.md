@@ -8,7 +8,6 @@ KinemaClawWorkspace is an open-source organization focused on developing high-qu
 
 ## Philosophy
 
-- **Quality over quantity** — Every skill is thoroughly tested and documented
 - **Open source** — All projects are open for the community to use and contribute
 - **Standardized** — Following [Kinema's Skill Making Pipeline](https://github.com/KinemaClawWorkspace/kinema-skill-making-pipeline) for consistent quality
 
