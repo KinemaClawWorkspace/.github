@@ -22,7 +22,7 @@ KinemaClawWorkspace is an open-source organization focused on developing high-qu
 
 ## Member
 
-- **[KinemaClaw](https://github.com/orgs/KinemaClawWorkspace/people/KinemaClaw)** — Founder & maintainer
+- **[KinemaClaw](https://github.com/LeeShunEE)** — Founder & maintainer
 
 ## Find Us
 
