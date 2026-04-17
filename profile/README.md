@@ -19,6 +19,7 @@ KinemaClawWorkspace is an open-source organization focused on developing high-qu
 | [searxng-search-cli](https://github.com/KinemaClawWorkspace/searxng-search-cli) | Self-hosted SearXNG search engine (Free, Auto-deploy, Multi-Channel) · [ClawHub](https://clawhub.ai/leeshunee/searxng-search-cli) |
 | [kinema-concept-research](https://github.com/KinemaClawWorkspace/kinema-concept-research) | Multi-engine concept status research tool · [ClawHub](https://clawhub.ai/leeshunee/kinema-concept-research) |
 | [kinema-skill-making-pipeline](https://github.com/KinemaClawWorkspace/kinema-skill-making-pipeline) | Skill development and publishing specification · [ClawHub](https://clawhub.ai/leeshunee/kinema-skill-making-pipeline) |
+| [kinema-task-management](https://github.com/KinemaClawWorkspace/kinema-task-management) | Kinema's personal task tracking system with daily reports and snapshots · [ClawHub](https://clawhub.ai/leeshunee/kinema-task-management) |
 
 ## Members
 
