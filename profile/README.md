@@ -15,11 +15,13 @@ KinemaClawWorkspace is an open-source organization focused on developing high-qu
 
 | Skill | Description |
 |-------|-------------|
+| [kinema-tdd-injector](https://github.com/KinemaClawWorkspace/kinema-tdd-injector) | One-time TDD methodology injector for CLAUDE.md generation · [ClawHub](https://clawhub.ai/leeshunee/kinema-tdd-injector) |
 | [alist-cli](https://github.com/KinemaClawWorkspace/alist-cli) | AList file management API with base_path auto-handling · [ClawHub](https://clawhub.ai/leeshunee/alist-cli) |
 | [searxng-search-cli](https://github.com/KinemaClawWorkspace/searxng-search-cli) | Self-hosted SearXNG search engine (Free, Auto-deploy, Multi-Channel) · [ClawHub](https://clawhub.ai/leeshunee/searxng-search-cli) |
 | [kinema-concept-research](https://github.com/KinemaClawWorkspace/kinema-concept-research) | Multi-engine concept status research tool · [ClawHub](https://clawhub.ai/leeshunee/kinema-concept-research) |
 | [kinema-skill-making-pipeline](https://github.com/KinemaClawWorkspace/kinema-skill-making-pipeline) | Skill development and publishing specification · [ClawHub](https://clawhub.ai/leeshunee/kinema-skill-making-pipeline) |
 | [kinema-task-management](https://github.com/KinemaClawWorkspace/kinema-task-management) | Kinema's personal task tracking system with daily reports and snapshots · [ClawHub](https://clawhub.ai/leeshunee/kinema-task-management) |
+| [kinema-skills-marketplace](https://github.com/KinemaClawWorkspace/kinema-skills-marketplace) | KinemaClaw Skills Marketplace - 私有 skill 集合索引 · [ClawHub](https://clawhub.ai/leeshunee/kinema-skills-marketplace) |
 
 ## Members
 
