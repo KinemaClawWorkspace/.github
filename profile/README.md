@@ -22,6 +22,7 @@ KinemaClawWorkspace is an open-source organization focused on developing high-qu
 | [kinema-skill-making-pipeline](https://github.com/KinemaClawWorkspace/kinema-skill-making-pipeline) | Skill development and publishing specification · [ClawHub](https://clawhub.ai/leeshunee/kinema-skill-making-pipeline) |
 | [kinema-task-management](https://github.com/KinemaClawWorkspace/kinema-task-management) | Kinema's personal task tracking system with daily reports and snapshots · [ClawHub](https://clawhub.ai/leeshunee/kinema-task-management) |
 | [kinema-skills-marketplace](https://github.com/KinemaClawWorkspace/kinema-skills-marketplace) | KinemaClaw Skills Marketplace - 私有 skill 集合索引 · [ClawHub](https://clawhub.ai/leeshunee/kinema-skills-marketplace) |
+| [git-log-tracker](https://github.com/KinemaClawWorkspace/git-log-tracker) | Git post-commit hook + SQLite 索引工具，跨仓库查询管理 · [ClawHub](https://clawhub.ai/leeshunee/git-log-tracker) |
 
 ## Members
 
